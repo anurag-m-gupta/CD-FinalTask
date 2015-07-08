@@ -7,7 +7,6 @@ use app\models\Coupon;
 use app\models\Website;
 use app\models\CouponCategories;
 use Yii;
-include '../vendor/phpoffice/phpexcel/classes/phpexcel.php';
 
 class CouponDuniaController extends \yii\web\Controller
 {
